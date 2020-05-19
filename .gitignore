@@ -1,0 +1,16 @@
+# Generated assets folder
+dist/*
+
+# Parcel ?
+.cache/*
+
+# Node JS
+node_modules/*
+npm-debug.log
+
+# Editors and IDEs
+.idea
+.vscode
+
+# macOS stuff
+.DS_Store

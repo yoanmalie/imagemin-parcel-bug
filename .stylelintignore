@@ -1,0 +1,4 @@
+# Ignore them all:
+/dist/*
+/node_modules/*
+/.cache/*
