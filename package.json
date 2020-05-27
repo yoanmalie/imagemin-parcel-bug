@@ -25,6 +25,7 @@
     "husky": "^4.2.5",
     "lint-staged": "^10.2.2",
     "parcel-plugin-custom-dist-structure": "^1.1.11",
+    "parcel-plugin-imagemin": "^4.0.1",
     "prettier": "^2.0.5",
     "require-dir": "^1.2.0",
     "stylelint": "^13.3.3",
